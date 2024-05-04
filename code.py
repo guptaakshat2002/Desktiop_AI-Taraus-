@@ -7,7 +7,7 @@ import datetime
 import cv2
 import openai
 
-openai.api_key = 'sk-AYY47JOFemMxIOmzCfpNT3BlbkFJIgHtlmiR0dqtrvxyn...'  # you have to creat your own key 
+openai.api_key =   # you have to creat your own key 
 
 def speak(text):
     engine = pyttsx3.init()
